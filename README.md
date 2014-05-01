@@ -1,4 +1,4 @@
-OpenMaterialForADC
+Open Material For AdoDevCon
 ==================
 
 This repo contains variety of materials involed with Adolescent Developer Community that open to public.
