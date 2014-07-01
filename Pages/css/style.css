@@ -11,7 +11,7 @@ Description: A default stylesheet for OnEvent - Special Event Landing Page Templ
 html, body, div, p, table, tr, td, th, tbody, tfoot, ul, li, ol, dl, dd, dt, fieldset, blockquote, cite, input, select, textarea, button, a, section, article, aside, header, footer, nav {
 	font-size: 1.2em;
 	font-weight: 400;
-	line-height: 0.25em;
+	line-height: 0.025em;
 	color: #6a6a6a;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
