@@ -1,9 +1,6 @@
-Open Material For AdoDevCon
+EVENT14
 ==================
 
-This repo contains variety of materials involed with Adolescent Developer Community that open to public.
-We help you can help us to prompt those materials so we can develop together.
+EVENT14 is a event that aims to prompt teenager on programming and design and everything about computer
 
-
-ADCmnt
-2014.5.1
+2014.7.6
