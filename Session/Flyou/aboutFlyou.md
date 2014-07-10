@@ -1,5 +1,4 @@
 # About Us
-===
 ## Members
 #### Elvis Hu
 [![Elvis Hu](./assets/images/ehu.jpg)](./Photos/ehu.jpg)
