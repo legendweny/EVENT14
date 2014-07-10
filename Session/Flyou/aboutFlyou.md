@@ -2,19 +2,19 @@
 ===
 ## Members
 #### Elvis Hu
-![Photo](./Photos/ehu.jpg =250x)
+[![Elvis Hu](./assets/images/ehu.jpg)](./Photos/ehu.jpg)
 - **Role** Project Manager, Designer
 - **Email** [ehu@flyou.org](mailto:ehu@flyou.org)
 - **Education** Beijing No.4 High School - Class of 2015
 
 #### Francis Fan
-![Photo](./Photos/frf.jpg =250x)
+[![Francis Fan](./assets/images/frf.jpg)](./Photos/frf.jpg)
 - **Role** Backend Engineer
 - **Email** [frf@flyou.org](mailto:frf@flyou.org)
 - **Education** Beijing No.4 High School - Class of 2015
 
 #### Zac Yu
-![Photo](./Photos/zyu.jpg =250x)
+[![Zac Yu](./assets/images/zyu.jpg)](./Photos/zyu.jpg)
 - **Role** Full-stack Engineer
 - **Email** [zyu@flyou.org](mailto:zyu@flyou.org)
 - **WeChat & Cell Phone** +1(559)512-0688
