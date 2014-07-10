@@ -1,91 +1,88 @@
 #For Sponsors  
 ##General Information
-* Targeted groups: 
+* Target audience: 
 
-	junior high school students, senior high school students and a small part of undergraduates.
+	Mainly middle and high school students with a small proportion of undergraduates.
 
 * Number of participants expected: 
 
 	450-700 participants
 
-* Current registration:
+* Current status of registration:
 
-	 450 participants (Online registration) and 100 participants (Offline Registration), approximately 500 participants in total
+	Approximately 500 participants in total
+	- 450 via online registration
+	- 100 via offline registration
 
-* Number of special guests: 25-30 guests
+* Number of special guests:
 
-* Number of adolescent speaker: 15-18 speakers
+	25-30 guests
 
-##Statistical analysis
+* Number of adolescent speaker:
+
+	15-18 speakers
+
+##Participants Analytics
  
-###Off-line registration
+###Offline Registration
 
-* Participants’ situation: 
+* Status of participants: 
 
-	
-	little development experience
+	None or limited development experience
  
 * Main reason to attend the meeting:
 
-	 
-	strong interests in computer science and the Internet
-Purpose to attend the meeting: getting access to the latest information and participate in interactive activities
+	The participants' strong interests in computer science and the Internet
+
+* Purpose to attend the meeting:
+
+	To keep up with the latest information and to participate in interactive activities
 
 ###Online Registration
-Most have the command of relevant skills and experience. (Front-End most, and a lots of are the attendees of Olympia in Information )
+
+* Status of participants: 
+
+	Generally experienced and with a good command of relevant skills, with a majority being former or current contestants of Informatic/Computing Olympiad.
 
 ##Required items
 1.	Venue
 2.	Food and beverage
 3.	Attendants
 
-###Needs of developer	s
-1.	Substantial speeche	s
+###Needs of developers
+1.	Substantial speeches
 2.	Communication skills 
-3.	Experiments and try out of some products
-4.	Opportunity to display projects
-5.	Resources of developing programs, applications, websites
+3.	Experiments and try out of new products
+4.	Opportunity to demonstrate projects
+5.	Resources of developing programs, applications and websites
 6.	Learning capacities
 
 ###Needs of participants (senior)
 1.	Generalized and introductory speeches
-2.	Variety of tempting presents and advertisements
-3.	Some easy and accessible interactive activities
+2.	A variety of tempting presents and advertisements
+3.	Simple yet instructive interactive activities
 
 ###Needs of participants (junior)
 1.	Generalized and introductory speeches
-2.	Introductory curriculum
-3.	Variety of tempting presents and advertisements
-4.	Signatures of fields’ leaders and experts
-5.	Viewing peers’ progress
+2.	Introductory lectures
+3.	A variety of tempting presents and advertisements
+4.	Signatures of celebrities and industry experts
+5.	Peer recognition
 
-###Needs of most parents
+###Needs of parents/guardians
 1.	Meaningful extra curricular activities
 2.	Presentation skills and expressive capacities
 3.	Convivial interactive activities
-4.	The opportunity to expand horizon and show off among peers
+4.	The opportunity for their children to broaden their horizons and show off among peers
 
 ###Our needs
-1.	Organization of special guests and speakers
+1.	Inviting of special guest speakers
 2.	Online publicity: platform, social network, user groups, social media
-3.	Off-line publicity: cooperation with schools, print media
-4.	Sponsorship and funds
+3.	Offline publicity: cooperation with schools, print media
+4.	Sponsorship gifts and funds
 
-###What we can offer?
-1.	Displaying Opportunities
-2.	Poster
-3.	Interval advertisements 
+###What can we offer?
+1.	Promoting opportunities
+2.	Displaying of posters
+3.	Playback of video Ads between events 
 4.	Advertisements on the journal
-
- 
-
-
-
-
-
-
-
-
-
-
-
